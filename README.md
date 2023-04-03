@@ -32,7 +32,7 @@
 
 ## Extended Overview
 
-
+![cc7e20af-944d-4e48-9a1b-09417f1df713](https://user-images.githubusercontent.com/69622683/229431196-835a4bc1-700c-4856-9bff-27c2f5847a73.png)
 
 ## Implement JukeBox from Scratch
 
