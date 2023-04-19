@@ -3,7 +3,7 @@
 
 ## Overview
 
-#### Everyone listens to songs on their favorite app ( Savvn, Wynk ) but have you ever thought about How you would make your music player? Design a music player with the features given below. 
+#### Everyone listens to songs on their favourite app (Savvn, Wynk) but have you ever thought about How you would make your music player? Design a music player with the features given below. 
 
 
 * A user can create a playlist from an available pool of songs.
